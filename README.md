@@ -12,3 +12,9 @@ Widgets incluidos:
 1. Checkbutton: Habilita la opción de guardar la operación que se esta haciendo en un historial, este historial se puede visualizar mediante un boton que despliega una ventana aparte.
 2. Progressbar: Es una barra que carga luego de hacer la primera operación.
 3. MessageBox: Despliega una ventana que señala al usuario tres errores, el error 1 y 2 es si faltan datos necesarios para hacer la operación, el error 3 indica que no puede dividir en 0.
+
+![GitHub Logo](/images/imagen1.png)
+![GitHub Logo](/images/imagen2.png)
+![GitHub Logo](/images/imagen3.png)
+![GitHub Logo](/images/imagen4.png)
+![GitHub Logo](/images/imagen5.png)
